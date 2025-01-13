@@ -84,7 +84,7 @@ The platform is built using the following technologies:
 - Open client/LatestNews.js and update line 7 as follows:
    ```bash
    const API_KEY = process.env.NEWS_API_KEY; 
-   const API_URL = `https://newsapi.org/v2/everything?q=stocks&apiKey=${API_KEY}`;
+   const API_URL = `news_api_url`;
 
 9. **Start the frontend server**:
    ```bash
