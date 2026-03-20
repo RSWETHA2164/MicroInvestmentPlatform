@@ -238,6 +238,34 @@ To contribute, please follow these steps:
 6. Submit a pull request to the main repository, explaining your changes and providing any necessary details.
 
 ---
+# Micro Investment Platform
+
+## 📌 About
+This project is a Micro Investment Platform that allows users to invest small amounts of money in various financial assets such as stocks, mutual funds, or digital assets. It is designed to make investing accessible, simple, and user-friendly for beginners.
+
+## 🚀 Features
+- User registration and login
+- Secure user authentication
+- View available investment options
+- Invest small amounts (micro-investments)
+- Portfolio tracking
+- Transaction history
+- Real-time updates (optional)
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+- (Add backend if used: Node.js / Python / Firebase)
+
+## 📊 Future Enhancements
+- AI-based investment suggestions
+- Risk analysis dashboard
+- Mobile app integration
+- Payment gateway integration
+
+## 👩‍💻 Contribution
+Updated README by Swetha R
 
 ### Contact 🌐
 If you have any questions or feedback, feel free to reach out at [mrodr.contact@gmail.com](mailto:mrodr.contact@gmail.com).
